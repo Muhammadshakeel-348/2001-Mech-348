@@ -4,7 +4,7 @@
 
 # Basic data types in Python: Numbers, Strings, Booleans 
 # Variable names must start with a letter or _, and can have numbers. They are case sensitive. 
-_myint = 10
+myint = 10
 myfloat = 13.2576
 mystr = "This is a string"
 mybool = True
